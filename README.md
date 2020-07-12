@@ -1,8 +1,8 @@
 ## About Me 
 
-I am a software engineer and data scientist living in New York City. I sometimes participate in open source software development (primarily machine learning and data visualization tools). I studied applied math and code at [Columbia University](http://www.columbia.edu/) and [Recurse Center](https://www.recurse.com/).
+I am a software engineer and data scientist living in New York City. I sometimes participate in open source software development (see some projects below). I studied applied math and code at [Columbia University](http://www.columbia.edu/) and [Recurse Center](https://www.recurse.com/).
 
-I occasionally [write](http://nepste.in/publications) things about math and technology. I've given talks at [PyData](http://pydata.org/), [BrooklynJS](http://brooklynjs.com/), [EmpireNode](http://empirenode.org), and various other conferences around the world. I am a supporting member of the [Python Software Foundation](https://www.python.org/psf/), the [R Foundation](https://www.r-project.org/foundation/), [NumFOCUS](https://numfocus.org/), and [Code Nation](https://codenation.org/).
+I occasionally write things about math and technology. I've given talks at [PyData](http://pydata.org/), [BrooklynJS](http://brooklynjs.com/), [EmpireNode](http://empirenode.org), and various other conferences around the world. I am a supporting member of the [Python Software Foundation](https://www.python.org/psf/), the [R Foundation](https://www.r-project.org/foundation/), [NumFOCUS](https://numfocus.org/), and [Code Nation](https://codenation.org/).
 
 
 ## Talks 
