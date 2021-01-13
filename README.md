@@ -40,7 +40,7 @@ I occasionally write things about math and technology. I've given talks at [PyDa
 
 - [The Role of the Dice in Board Games History - Board Game Studies Journal](http://bgsj.ludus-opuscula.org/Home/ArticleDetails/1139)
 
-- [Duru Calculations - Journal of Cognition and Culture](http://booksandjournals.brillonline.com/content/journals/10.1163/15685373-12342156;jsessionid=5bp78i7b046s5.x-brill-live-02)
+- [Duru Calculations - Journal of Cognition and Culture](https://brill.com/view/journals/jocc/15/3-4/article-p374_8.xml?language=en)
 
 - [Using Momentum for a Long-Only Strategy in US Market](http://nozariadvisors.com/wp-content/uploads/2015/03/Momentum-MSCI-v3.pdf)
 
