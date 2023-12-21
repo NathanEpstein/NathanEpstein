@@ -30,25 +30,22 @@ I occasionally write things about math and technology. I've given talks at [PyDa
 
 ### Publications
 
-- [What is a "10x" Programmer? - dev.to](https://dev.to/nathanepstein/what-is-a-10x-programmer)
-
-- [A Tour of Random Forests - Code Words](https://codewords.recurse.com/issues/seven/a-tour-of-random-forests)
-
-- [Antifragile Software - dev.to](https://dev.to/nathanepstein/antifragile-software-3oh3)
-
+- [Duru Calculations - Journal of Cognition and Culture](https://brill.com/view/journals/jocc/15/3-4/article-p374_8.xml?language=en)
+  
 - [Using Mancala in the Mathematics Classroom - Mathematics Teacher](https://www.nctm.org/Publications/Mathematics-Teacher/2018/Vol112/Issue1/Using-Mancala-in-the-Mathematics-Classroom/)
 
 - [The Role of the Dice in Board Games History - Board Game Studies Journal](http://bgsj.ludus-opuscula.org/Home/ArticleDetails/1139)
 
-- [Duru Calculations - Journal of Cognition and Culture](https://brill.com/view/journals/jocc/15/3-4/article-p374_8.xml?language=en)
+- [A Tour of Random Forests - Code Words](https://codewords.recurse.com/issues/seven/a-tour-of-random-forests)
 
 - [Using Momentum for a Long-Only Strategy in US Market](http://nozariadvisors.com/wp-content/uploads/2015/03/Momentum-MSCI-v3.pdf)
+
+- [What is a "10x" Programmer? - dev.to](https://dev.to/nathanepstein/what-is-a-10x-programmer)
+
+- [Antifragile Software - dev.to](https://dev.to/nathanepstein/antifragile-software-3oh3)
 
 - [On Server Administration in Data Engineering - dev.to](https://dev.to/nathanepstein/on-server-administration-in-data-engineering-3ihp)
 
 - [Predicting the Fastest Growing Programming Languages - KDnuggets](http://www.kdnuggets.com/2016/03/ranking-growth-programming-languages.html)
 
-
 - [Measuring the TSX Index](http://grow.wealthsimple.com/tsx-data/)
-
-- [Avoiding Hiring Errors in Startups](https://www.linkedin.com/pulse/avoiding-hiring-errors-startups-nathan-epstein)
