@@ -47,5 +47,3 @@ I occasionally write things about math and technology. I've given talks at [PyDa
 - [On Server Administration in Data Engineering - dev.to](https://dev.to/nathanepstein/on-server-administration-in-data-engineering-3ihp)
 
 - [Predicting the Fastest Growing Programming Languages - KDnuggets](http://www.kdnuggets.com/2016/03/ranking-growth-programming-languages.html)
-
-- [Measuring the TSX Index](http://grow.wealthsimple.com/tsx-data/)
